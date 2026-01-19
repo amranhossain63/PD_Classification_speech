@@ -2,6 +2,7 @@
 Title: Machine learning-based classification of Parkinson's disease patients using speech biomarkers.
 
 Abstract
+
 Background: Parkinson's disease (PD) is the most prevalent neurodegenerative movement disorder and a growing health concern in demographically aging societies. The prevalence of PD among individuals over the age of 60   and 80 years has been reported to range between 1% and 4%. A timely diagnosis of Parkinson's disease is desirable, even though it poses challenges to medical systems. 
 
 Objective: This study aimed to classify PD and healthy controls based on the analysis of voice records at different frequencies using machine learning (ML) algorithms. 
