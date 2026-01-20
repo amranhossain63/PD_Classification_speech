@@ -5,3 +5,16 @@ Male 	Healthy	23
 	PD	107
 Female	Healthy	41
 	PD	82
+
+
+
+
+Confusion Matrix Table
+Actual value		Negative	Positive
+	Negative	True Negative (TN)	False Positive (FP)
+	Positive	False Negative (FN)	True Positive (TP)
+		Predicted Value
+
+
+
+
