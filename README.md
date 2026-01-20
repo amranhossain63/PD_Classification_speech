@@ -14,7 +14,7 @@ Results: In the classification of PD patients, ML models were performed with 84.
 Conclusion: Our study demonstrated that ML classifiers and pipelines can classify PD patients based on speech biomarkers. It was found that pipelines were more effective at selecting the most relevant features from high-dimensional data and at accurately classifying PD patients and healthy controls. This approach can therefore be used for early diagnosis of initial forms of PD.
 
 
-# Keywords: Parkinson’s disease, PD, Machine learning, Pipeline, Biomarkers, Speech
+### Keywords: Parkinson’s disease, PD, Machine learning, Pipeline, Biomarkers, Speech
 
-# https://doi.org/10.3233/JPD-230002
+### https://doi.org/10.3233/JPD-230002
 
