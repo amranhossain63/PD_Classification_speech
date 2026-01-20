@@ -1,7 +1,7 @@
 # PD_Classification_speech
-## Title: Machine learning-based classification of Parkinson's disease patients using speech biomarkers.
+# Title: Machine learning-based classification of Parkinson's disease patients using speech biomarkers.
 
-Abstract
+### Abstract
 
 Background: Parkinson's disease (PD) is the most prevalent neurodegenerative movement disorder and a growing health concern in demographically aging societies. The prevalence of PD among individuals over the age of 60   and 80 years has been reported to range between 1% and 4%. A timely diagnosis of Parkinson's disease is desirable, even though it poses challenges to medical systems. 
 
@@ -14,7 +14,7 @@ Results: In the classification of PD patients, ML models were performed with 84.
 Conclusion: Our study demonstrated that ML classifiers and pipelines can classify PD patients based on speech biomarkers. It was found that pipelines were more effective at selecting the most relevant features from high-dimensional data and at accurately classifying PD patients and healthy controls. This approach can therefore be used for early diagnosis of initial forms of PD.
 
 
-Keywords: Parkinson’s disease, PD, Machine learning, Pipeline, Biomarkers, Speech
+# Keywords: Parkinson’s disease, PD, Machine learning, Pipeline, Biomarkers, Speech
 
-https://doi.org/10.3233/JPD-230002
+# https://doi.org/10.3233/JPD-230002
 
