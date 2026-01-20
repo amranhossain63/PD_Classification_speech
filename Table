@@ -9,12 +9,3 @@ Female	Healthy	41
 
 
 
-Confusion Matrix Table
-Actual value		Negative	Positive
-	Negative	True Negative (TN)	False Positive (FP)
-	Positive	False Negative (FN)	True Positive (TP)
-		Predicted Value
-
-
-
-
